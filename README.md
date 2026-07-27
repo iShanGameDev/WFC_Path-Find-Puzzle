@@ -3,7 +3,7 @@
 <p1>This Generator uses the Wave Function Collapse algorithm<br> It calculates selected tile neighbours and show acordingly</p1>
 
 <h1>Preview</h1>
-<img src="./" width="400" alt="App Demo">
+<img src="./" width="400" alt="Preview">
 
 
 <h1>Game Preview</h1>
@@ -11,4 +11,4 @@
 <br>
 <a href="https://ishangamedev.itch.io/find-the-exit">Playable Link</a>
 <br>
-<img src="./gif_0.gif" width="400" alt="App Demo">
+<img src="./gif_0.gif" width="400" alt="Game Preview">
