@@ -3,4 +3,4 @@ Path Generator using Wave function collapse.
 
 Preview
 
-[!til]
+[!til](./gif.gif)
