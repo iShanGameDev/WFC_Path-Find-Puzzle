@@ -9,5 +9,6 @@
 <h1>Game Preview</h1>
 <p1>I Made A Simple Game Using This Generator</p1>
 <br>
-<a href="https://ishangamedev.itch.io/find-the-exit" color="white">Playable Link</a>
+<a href="https://ishangamedev.itch.io/find-the-exit">Playable Link</a>
+<br>
 <img src="./gif_0.gif" width="400" alt="App Demo">
