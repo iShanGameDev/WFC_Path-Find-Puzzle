@@ -3,7 +3,7 @@
 <p1>This Generator uses the Wave Function Collapse algorithm<br> It calculates selected tile neighbours and show acordingly</p1>
 
 <h1>Preview</h1>
-<img src="./" width="400" alt="Preview">
+<img src="./gif.gif" width="400" alt="Preview">
 
 
 <h1>Game Preview</h1>
