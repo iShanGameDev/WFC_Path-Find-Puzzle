@@ -11,4 +11,4 @@
 <br>
 <p1>Game Link:</p1>
 <a href="https://ishangamedev.itch.io/find-the-exit">Playable Link</a>
-<img src="./gif_0.gif" width="400" alt="App Demo">****
+<img src="./gif_0.gif" width="400" alt="App Demo">
