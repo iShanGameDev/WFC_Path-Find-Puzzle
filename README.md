@@ -4,6 +4,7 @@
 
 <h1>Preview</h1>
 <img src="./gif.gif" width="400" alt="Preview">
+<img src="./gif_1.gif" width="400" alt="Preview">
 
 
 <h1>Game Preview</h1>
