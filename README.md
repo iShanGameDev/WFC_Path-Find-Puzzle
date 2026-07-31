@@ -2,10 +2,9 @@
 <h2>Path Generator using Wave Function Collapse.</h2>
 <p1>This Generator uses the Wave Function Collapse algorithm<br> It calculates selected tile neighbours and show acordingly</p1>
 <br>
-<h2>
+<h3>
   Download
-</h2>
-<br>
+</h3>
 <a href="https://github.com/iShanGameDev/WFC_Path-Find-Puzzle/releases/download/v1/WaveFunctionCollapse.unitypackage">Playable Link</a>
 
 
