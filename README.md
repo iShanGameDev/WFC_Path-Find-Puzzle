@@ -1,7 +1,13 @@
 # WFC_Path-Find-Puzzle
 <h2>Path Generator using Wave Function Collapse.</h2>
 <p1>This Generator uses the Wave Function Collapse algorithm<br> It calculates selected tile neighbours and show acordingly</p1>
-<br><p1>Download and test the release and give me your thoughts.</p1>
+<br>
+<h2>
+  Download
+</h2>
+<br>
+<a href="https://github.com/iShanGameDev/WFC_Path-Find-Puzzle/releases/download/v1/WaveFunctionCollapse.unitypackage">Playable Link</a>
+
 
 <h1>Preview</h1>
 <div style="display:flex;">
