@@ -12,6 +12,7 @@
 <div style="display:flex;">
 <img src="./gif.gif" width="400" alt="Preview">
 <img src="./gif_1.gif" width="400" alt="Preview">
+<img src="./gif_2.gif" width="400" alt="Preview">
 </div>
 
 
