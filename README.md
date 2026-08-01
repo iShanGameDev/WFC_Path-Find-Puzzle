@@ -5,7 +5,7 @@
 <h3>
   Download
 </h3>
-<a href="https://github.com/iShanGameDev/WFC_Path-Find-Puzzle/releases/download/v1/WaveFunctionCollapse.unitypackage">New Release</a>
+<a href="https://github.com/iShanGameDev/WFC_Path-Find-Puzzle/releases/download/v1.1/WaveFunctionCollapse.unitypackage">New Release</a>
 
 
 <h1>Preview</h1>
