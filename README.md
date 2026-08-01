@@ -1,6 +1,7 @@
 # WFC_Path-Find-Puzzle
 <h2>Path Generator using Wave Function Collapse.</h2>
 <p1>This Generator uses the Wave Function Collapse algorithm<br> It calculates selected tile neighbours and show acordingly</p1>
+<p1>I Learned Wave Function Collapse algorithm from :</p1>
 <br>
 <h3>
   Download
